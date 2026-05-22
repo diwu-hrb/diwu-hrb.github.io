@@ -6,7 +6,7 @@ permalink: /publication/2018-05-01-high-capacity-spectrum-allocation-for-multipl
 excerpt: "This paper studies spectrum allocation for multiple D2D users reusing downlink spectrum in LTE networks."
 date: 2018-05-01
 venue: "2018 IEEE International Conference on Communications (ICC)"
-paperurl: "/Publication%20files/Conference/High%20Capacity%20Spectrum%20Allocation%20for%20MultipleD2D%20Users%20Reusing%20Downlink%20Spectrum%20in%20LTE_ICC.pdf"
+paperurl: "/Publication%20files/High%20Capacity%20Spectrum%20Allocation%20for%20MultipleD2D%20Users%20Reusing%20Downlink%20Spectrum%20in%20LTE_ICC.pdf"
 citation: 'Di Wu and Nirwan Ansari. (2018). &quot;High Capacity Spectrum Allocation for Multiple D2D Users Reusing Downlink Spectrum in LTE.&quot; <i>2018 IEEE International Conference on Communications (ICC)</i>.'
 ---
 

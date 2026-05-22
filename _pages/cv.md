@@ -11,27 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, New Jersey Institute of Technology, 2020
+* M.S. in Communication Engineering, Harbin Institute of Technology, 2015
+* B.S. in Communication Engineering, Harbin Institute of Technology, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep. 2023 -- Now: Associate Professor
+  * Nanjing University of Science and Technology, China
+  * Department: School of Cyber Science and Engineering
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2021 -- June 2023: Postdoctoral Researcher
+  * KTH Royal Institute of Technology, Sweden
+  * Research focus: Cyber Security, Blockchain, Distributed Network/System
+  * Supervisor: Panos Papadimitratos
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -40,6 +34,14 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Research Interests
+======
+1. Drone-assisted mobile edge computing
+2. Resource allocation in distributed systems
+3. Intelligent resource allocation for reliable communications
+4. wireless communications
+5. AI-based cyber security
 
 Publications
 ======

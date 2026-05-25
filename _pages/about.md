@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Di's Personal Website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Brief Introduction about me
+Brief Introduction
 ===
 Di Wu received the B.S. and M.Eng. degrees in communication engineering from Harbin Institute of Technology, China, in 2013 and 2015, respectively, and the Ph.D. degree in electrical engineering from New Jersey Institute of Technology, USA, in 2020, under the supervision of Prof. Nirwan Ansari. 
 From 2021 to 2023, he was a postdoctoral researcher with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Sweden, working with Prof. Panos Papadimitratos. 
@@ -25,4 +25,75 @@ Research Interests
 
 Latest Updates/News:
 ===
-[]
+[2025] Supervised student achieve the second prize in 2025 "Challenge Cup" National College Student Entrepreneur Competition
+
+Publications
+===
+* 2026
+  * ZHANG Xueru, WU Di, ZHANG Rui. An ECC-Based Three-Factor Authentication and Key Management Protocol for Session Key Leakage Resilience in Internet of Drones[J]. IEEE Internet of Things Journal, 2026, 13(6): 11436-11445. DOI: 10.1109/JIOT.2025.3647437.
+
+* 2025
+  * CHEN Yue, PANG Shuchao, WU Di, et al. Stealthy Infiltrations: Backdoor Attacks in Medical Distributed Generative Models[C]//2025 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2025: 1-6. DOI: 10.1109/ICCC65529.2025.11149003.
+
+* 2024  
+  * XU Jun, YU Songnan, LU Xiaoyu Sean, et al. Investigating Labeled Cyberbullying Incidents on the Weibo Social Network[C]//2024 International Conference on Networking, Sensing and Control (ICNSC). IEEE, 2024: 1-6. DOI: 10.1109/ICNSC62968.2024.10759933.
+  * ZHANG Shuai, CAI Tianzhang, WU Di, et al. IoRT Data Collection With LEO Satellite-Assisted and Cache-Enabled UAV: A Deep Reinforcement Learning Approach[J]. IEEE Transactions on Vehicular Technology, 2024, 73(4): 5872-5884. DOI: 10.1109/TVT.2023.3336262.
+* 2021
+  * WU Di, ANSARI Nirwan. A Trust-Evaluation-Enhanced Blockchain-Secured Industrial IoT System[J]. IEEE Internet of Things Journal, 2021, 8(7): 5510-5517. DOI: 10.1109/JIOT.2020.3030689.
+* 2020
+  * WU Di, SUN Xiang, ANSARI Nirwan. An FSO-Based Drone Charging System for Emergency Communications[J]. IEEE Transactions on Vehicular Technology, 2020, 69(12): 16155-16162. DOI: 10.1109/TVT.2020.3043969.
+  * WU Di, ANSARI Nirwan. A Cooperative Computing Strategy for Blockchain-Secured Fog Computing[J]. IEEE Internet of Things Journal, 2020, 7(7): 6603-6609. DOI: 10.1109/JIOT.2020.2974231.
+  * WU Di, SUN Xiang, ANSARI Nirwan. An FSO-Based Drone Assisted Mobile Access Network for Emergency Communications[J]. IEEE Transactions on Network Science and Engineering, 2020, 7(3): 1597-1606. DOI: 10.1109/TNSE.2019.2942266.
+  * ANSARI Nirwan, WU Di, SUN Xiang. FSO as Backhaul and Energizer for Drone-Assisted Mobile Access Networks[J]. ICT Express, 2020, 6(2): 139-144. DOI: 10.1016/j.icte.2019.12.002.
+* 2019
+  * WU Di, SUN Xiang, ANSARI Nirwan. A Cooperative Drone Assisted Mobile Access Network for Disaster Emergency Communications[C]//2019 IEEE Global Communications Conference (GLOBECOM). IEEE, 2019: 1-6. DOI: 10.1109/GLOBECOM38437.2019.9013813.
+  * WU Di, ANSARI Nirwan. High Capacity Spectrum Allocation for Multiple D2D Users Reusing Downlink Spectrum in LTE[C]//2018 IEEE International Conference on Communications (ICC). IEEE, 2018: 1-6. DOI: 10.1109/ICC.2018.8422778.
+
+
+Timeline
+===
+
+* Sep. 2023 -- Now: Associate Professor
+  * Nanjing University of Science and Technology, China
+  * Department: School of Cyber Science and Engineering
+
+* July 2021 -- June 2023: Postdoctoral Researcher
+  * KTH Royal Institute of Technology, Sweden
+  * Research focus: Cyber Security, Blockchain, Distributed Network/System
+  * Supervisor: Panos Papadimitratos
+
+* Sep. 2015 -- Dec. 2020: Ph.D Student
+  * New Jersey Institute of Technology, U.S.
+  * Surperisor: Nirwan Ansari
+
+* Sep. 2013 -- June 2015: M.S. Student
+  * Harbin Institute of Technology, 2015
+  * Major: Communication Engineering
+  * Supervisor: Naitong Zhang
+
+* Sep. 2009 -- June 2013: B.S. Student
+  * Harbin Institute of Technology
+  * Major: Communication Engineering
+
+Academia Services
+===
+* Reviewers
+  *	IEEE Internet of Things Journal (IoT-J)
+  *	IEEE Transactions on Vehicular Technology (TVT)
+  *	IEEE Transactions on Computational Social Systems (TCSS)
+  *	IEEE Transactions on Systems, Man and Cybernetics (SMC)
+  *	IEEE Transactions on Information Forensics & Security (TIFS)
+
+* TPC Member
+  *	IEEE International Conference on Communications (ICC) 2025
+  *	IEEE International Conference on Green Computing and Communicaitons (GreenCom 2025)
+  *	IEEE International Conference on Communications (ICC) 2024
+
+
+Awards
+===
+  *	2024 National Distinguished Overseas Youth
+
+Supervised Achievements
+===
+ * 2025 "Challenge Cup" National College Student Entrepreneur Competition; Second Prize

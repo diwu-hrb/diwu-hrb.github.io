@@ -6,7 +6,7 @@ permalink: /publication/2019-12-01-cooperative-drone-assisted-mobile-access-netw
 excerpt: "This paper proposes a cooperative drone-assisted mobile access network architecture for disaster emergency communications."
 date: 2019-12-01
 venue: "2019 IEEE Global Communications Conference (GLOBECOM)"
-paperurl: "/Publication%20files/Conference/Cooperative%20Drone%20Assisted%20Mobile%20AccessNetwork%20for%20Disaster%20Emergency%20Communications_GLOBCOM.pdf"
+paperurl: "/Publication%20files/Cooperative%20Drone%20Assisted%20Mobile%20AccessNetwork%20for%20Disaster%20Emergency%20Communications_GLOBCOM.pdf"
 citation: 'Di Wu, Xiang Sun, and Nirwan Ansari. (2019). &quot;A Cooperative Drone Assisted Mobile Access Network for Disaster Emergency Communications.&quot; <i>2019 IEEE Global Communications Conference (GLOBECOM)</i>.'
 ---
 

@@ -26,15 +26,6 @@ Work experience
   * Research focus: Cyber Security, Blockchain, Distributed Network/System
   * Supervisor: Panos Papadimitratos
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Research Interests
 ======
 1. Drone-assisted mobile edge computing
@@ -61,6 +52,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

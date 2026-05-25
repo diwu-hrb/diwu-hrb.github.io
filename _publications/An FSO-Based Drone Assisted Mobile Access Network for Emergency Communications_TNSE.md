@@ -6,7 +6,7 @@ permalink: /publication/2020-07-01-fso-based-drone-assisted-mobile-access-networ
 excerpt: "This paper studies FSO-based backhaul for drone-assisted mobile access networks in emergency communications."
 date: 2020-07-01
 venue: "IEEE Transactions on Network Science and Engineering"
-paperurl: "/Publication%20files/Journal/An%20FSO-Based%20Drone%20Assisted%20Mobile%20Access%20Network%20for%20Emergency%20Communications_TNSE.pdf"
+paperurl: "/Publication%20files/An%20FSO-Based%20Drone%20Assisted%20Mobile%20Access%20Network%20for%20Emergency%20Communications_TNSE.pdf"
 citation: 'Di Wu, Xiang Sun, and Nirwan Ansari. (2020). &quot;An FSO-Based Drone Assisted Mobile Access Network for Emergency Communications.&quot; <i>IEEE Transactions on Network Science and Engineering</i>, 7(3), 1597-1606.'
 ---
 

@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Di Wu (吴迪)
-  Ph.D., Associate Professor,
 
+  Ph.D., Associate Professor,
   Nanjing University of Science and Technology
 
   E-mail: diwu_hrb@njust.edu.cn

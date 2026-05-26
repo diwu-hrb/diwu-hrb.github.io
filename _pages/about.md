@@ -38,6 +38,8 @@ Publications
 * 2026
   * <p class="small"> Xueru ZHANG, Di WU, Rui ZHANG. An ECC-Based Three-Factor Authentication and Key Management Protocol for Session Key Leakage Resilience in Internet of Drones[J]. IEEE Internet of Things Journal, 2026, 13(6): 11436-11445. DOI: 10.1109/JIOT.2025.3647437. </p>
 
+  * <p class="small"> Xu DONG, Shiwen LIU, Haoyang HU, et al. MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs[C]//Advanced Data Mining and Applications. Singapore: Springer Nature Singapore, 2026: 378-392. </p>
+
 * 2025
   * <p class="small"> Yue CHEN, Shuchao PANG, Di WU, et al. Stealthy Infiltrations: Backdoor Attacks in Medical Distributed Generative Models[C]//2025 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2025: 1-6. DOI: 10.1109/ICCC65529.2025.11149003. </p>
 

@@ -36,34 +36,34 @@ Latest Updates/News:
 Publications
 ===
 * 2026
-  * <p class="small"> Xueru ZHANG, Di WU, Rui ZHANG. An ECC-Based Three-Factor Authentication and Key Management Protocol for Session Key Leakage Resilience in Internet of Drones[J]. IEEE Internet of Things Journal, 2026, 13(6): 11436-11445. DOI: 10.1109/JIOT.2025.3647437. </p>
+  * <p class="small"> Xueru ZHANG, Di WU* and Rui ZHANG. An ECC-Based Three-Factor Authentication and Key Management Protocol for Session Key Leakage Resilience in Internet of Drones[J]. IEEE Internet of Things Journal, 2026, 13(6): 11436-11445. DOI: 10.1109/JIOT.2025.3647437. </p>
 
-  * <p class="small"> Xu DONG, Shiwen LIU, Haoyang HU, et al. MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs[C]//Advanced Data Mining and Applications. Singapore: Springer Nature Singapore, 2026: 378-392. </p>
+  * <p class="small"> Xu DONG, Shiwen LIU, Haoyang HU and Di WU. MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs[C]//Advanced Data Mining and Applications. Singapore: Springer Nature Singapore, 2026: 378-392. </p>
 
 * 2025
   * <p class="small"> Yue CHEN, Shuchao PANG, Di WU, et al. Stealthy Infiltrations: Backdoor Attacks in Medical Distributed Generative Models[C]//2025 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2025: 1-6. DOI: 10.1109/ICCC65529.2025.11149003. </p>
 
 * 2024  
-  * <p class="small"> Jun XU, Songnan YU, Xiaoyu Sean LU, et al. Investigating Labeled Cyberbullying Incidents on the Weibo Social Network[C]//2024 International Conference on Networking, Sensing and Control (ICNSC). IEEE, 2024: 1-6. DOI: 10.1109/ICNSC62968.2024.10759933. </p>
+  * <p class="small"> Jun XU, Songnan YU, Xiaoyu Sean LU, Di WU and Qi KANG. Investigating Labeled Cyberbullying Incidents on the Weibo Social Network[C]//2024 International Conference on Networking, Sensing and Control (ICNSC). IEEE, 2024: 1-6. DOI: 10.1109/ICNSC62968.2024.10759933. </p>
 
-  * <p class="small"> Shuai ZHANG, Tianzhang CAI, Di WU, et al. IoRT Data Collection With LEO Satellite-Assisted and Cache-Enabled UAV: A Deep Reinforcement Learning Approach[J]. IEEE Transactions on Vehicular Technology, 2024, 73(4): 5872-5884. DOI: 10.1109/TVT.2023.3336262. </p>
+  * <p class="small"> Shuai ZHANG, Tianzhang CAI, Di WU, Dominic SCHUPKE, Nirwan ANSARI and Cicek CAVDAR. IoRT Data Collection With LEO Satellite-Assisted and Cache-Enabled UAV: A Deep Reinforcement Learning Approach[J]. IEEE Transactions on Vehicular Technology, 2024, 73(4): 5872-5884. DOI: 10.1109/TVT.2023.3336262. </p>
 
 * 2021
-  * <p class="small"> Di WU, Nirwan ANSARI. A Trust-Evaluation-Enhanced Blockchain-Secured Industrial IoT System[J]. IEEE Internet of Things Journal, 2021, 8(7): 5510-5517. DOI: 10.1109/JIOT.2020.3030689. </p>
+  * <p class="small"> Di WU and Nirwan ANSARI. A Trust-Evaluation-Enhanced Blockchain-Secured Industrial IoT System[J]. IEEE Internet of Things Journal, 2021, 8(7): 5510-5517. DOI: 10.1109/JIOT.2020.3030689. </p>
 
 * 2020
-  * <p class="small"> Di WU, Xiang SUN, Nirwan ANSARI. An FSO-Based Drone Charging System for Emergency Communications[J]. IEEE Transactions on Vehicular Technology, 2020, 69(12): 16155-16162. DOI: 10.1109/TVT.2020.3043969. </p>
+  * <p class="small"> Di WU, Xiang SUN and Nirwan ANSARI. An FSO-Based Drone Charging System for Emergency Communications[J]. IEEE Transactions on Vehicular Technology, 2020, 69(12): 16155-16162. DOI: 10.1109/TVT.2020.3043969. </p>
 
-  * <p class="small"> Di WU, Xiang SUN, Nirwan ANSARI. An FSO-Based Drone Assisted Mobile Access Network for Emergency Communications[J]. IEEE Transactions on Network Science and Engineering, 2020, 7(3): 1597-1606. DOI: 10.1109/TNSE.2019.2942266. </p>
+  * <p class="small"> Di WU, Xiang SUN and Nirwan ANSARI. An FSO-Based Drone Assisted Mobile Access Network for Emergency Communications[J]. IEEE Transactions on Network Science and Engineering, 2020, 7(3): 1597-1606. DOI: 10.1109/TNSE.2019.2942266. </p>
 
-  * <p class="small"> Di WU, Nirwan ANSARI. A Cooperative Computing Strategy for Blockchain-Secured Fog Computing[J]. IEEE Internet of Things Journal, 2020, 7(7): 6603-6609. DOI: 10.1109/JIOT.2020.2974231. </p>
+  * <p class="small"> Di WU and Nirwan ANSARI. A Cooperative Computing Strategy for Blockchain-Secured Fog Computing[J]. IEEE Internet of Things Journal, 2020, 7(7): 6603-6609. DOI: 10.1109/JIOT.2020.2974231. </p>
 
-  * <p class="small"> Nirwan ANSARI, Di WU, Xiang SUN. FSO as Backhaul and Energizer for Drone-Assisted Mobile Access Networks[J]. ICT Express, 2020, 6(2): 139-144. DOI: 10.1016/j.icte.2019.12.002. </p>
+  * <p class="small"> Nirwan ANSARI, Di WU and Xiang SUN. FSO as Backhaul and Energizer for Drone-Assisted Mobile Access Networks[J]. ICT Express, 2020, 6(2): 139-144. DOI: 10.1016/j.icte.2019.12.002. </p>
 
 * 2019
-  * <p class="small"> Di WU, Xiang SUN, Nirwan ANSARI. A Cooperative Drone Assisted Mobile Access Network for Disaster Emergency Communications[C]//2019 IEEE Global Communications Conference (GLOBECOM). IEEE, 2019: 1-6. DOI: 10.1109/GLOBECOM38437.2019.9013813. </p>
+  * <p class="small"> Di WU, Xiang SUN and Nirwan ANSARI. A Cooperative Drone Assisted Mobile Access Network for Disaster Emergency Communications[C]//2019 IEEE Global Communications Conference (GLOBECOM). IEEE, 2019: 1-6. DOI: 10.1109/GLOBECOM38437.2019.9013813. </p>
 
-  * <p class="small"> Di WU, Nirwan ANSARI. High Capacity Spectrum Allocation for Multiple D2D Users Reusing Downlink Spectrum in LTE[C]//2018 IEEE International Conference on Communications (ICC). IEEE, 2018: 1-6. DOI: 10.1109/ICC.2018.8422778. </p>
+  * <p class="small"> Di WU and Nirwan ANSARI. High Capacity Spectrum Allocation for Multiple D2D Users Reusing Downlink Spectrum in LTE[C]//2018 IEEE International Conference on Communications (ICC). IEEE, 2018: 1-6. DOI: 10.1109/ICC.2018.8422778. </p>
 
 
 Timeline

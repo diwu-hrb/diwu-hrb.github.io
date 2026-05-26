@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Di Wu (吴迪)
+Di Wu (吴迪), Ph.D.
 
-  * Ph.D., Associate Professor
+  * Associate Professor
   * Nanjing University of Science and Technology
   * E-mail: diwu_hrb@njust.edu.cn
 

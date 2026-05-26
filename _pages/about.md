@@ -36,7 +36,7 @@ Latest Updates/News:
 Publications
 ===
 * 2026
-  * Xueru ZHANG, Di WU, Rui ZHANG. An ECC-Based Three-Factor Authentication and Key Management Protocol for Session Key Leakage Resilience in Internet of Drones[J]. IEEE Internet of Things Journal, 2026, 13(6): 11436-11445. DOI: 10.1109/JIOT.2025.3647437.
+  * <p class="small"> Xueru ZHANG, Di WU, Rui ZHANG. An ECC-Based Three-Factor Authentication and Key Management Protocol for Session Key Leakage Resilience in Internet of Drones[J]. IEEE Internet of Things Journal, 2026, 13(6): 11436-11445. DOI: 10.1109/JIOT.2025.3647437. </p>
 
 * 2025
   * Yue CHEN, Shuchao PANG, Di WU, et al. Stealthy Infiltrations: Backdoor Attacks in Medical Distributed Generative Models[C]//2025 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2025: 1-6. DOI: 10.1109/ICCC65529.2025.11149003.

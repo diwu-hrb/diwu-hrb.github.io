@@ -26,7 +26,7 @@ Research Interests
 * Drone-assisted mobile edge computing
 * Resource allocation in distributed systems
 * Intelligent resource allocation for reliable communications
-* wireless communications
+* Wireless communications
 * AI-based cyber security
 
 Latest Updates/News:

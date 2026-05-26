@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+Di Wu (吴迪)
+  Ph.D., Associate Professor,
+
+  Nanjing University of Science and Technology
+
+  E-mail: diwu_hrb@njust.edu.cn
+
 Brief Introduction
 ===
 Di Wu received the B.S. and M.Eng. degrees in communication engineering from Harbin Institute of Technology, China, in 2013 and 2015, respectively, and the Ph.D. degree in electrical engineering from New Jersey Institute of Technology, USA, in 2020, under the supervision of Prof. Nirwan Ansari. 

@@ -28,11 +28,11 @@ Work experience
 
 Research Interests
 ======
-1. Drone-assisted mobile edge computing
-2. Resource allocation in distributed systems
-3. Intelligent resource allocation for reliable communications
-4. wireless communications
-5. AI-based cyber security
+* Drone-assisted mobile edge computing
+* Resource allocation in distributed systems
+* Intelligent resource allocation for reliable communications
+* wireless communications
+* AI-based cyber security
 
 Publications
 ======

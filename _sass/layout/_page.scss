@@ -59,6 +59,11 @@
     font-size: 1em;
   }
 
+  /* 左右对齐 */
+  p {
+    text-align: justify;
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
@@ -391,12 +396,6 @@
   a {
     color: inherit;
     text-decoration: none;
-  }
-}
-
-.page__content {
-  p {
-    text-align: justify;
   }
 }
 

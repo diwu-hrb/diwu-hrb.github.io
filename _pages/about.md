@@ -15,10 +15,10 @@ Di Wu (吴迪)
 
 Brief Introduction
 ===
-Di Wu received the B.S. and M.Eng. degrees in communication engineering from Harbin Institute of Technology, China, in 2013 and 2015, respectively, and the Ph.D. degree in electrical engineering from New Jersey Institute of Technology, USA, in 2020, under the supervision of Prof. Nirwan Ansari. 
-From 2021 to 2023, he was a postdoctoral researcher with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Sweden, working with Prof. Panos Papadimitratos. 
+Di Wu received the B.S. and M.Eng. degrees in communication engineering from Harbin Institute of Technology, China, and the Ph.D. degree in electrical engineering from New Jersey Institute of Technology, USA, under the supervision of Prof. Nirwan Ansari. 
+He was a postdoctoral researcher with the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Sweden, working with Prof. Panos Papadimitratos. 
 He is currently an Associate Professor with the School of Cyber Science and Engineering, Nanjing University of Science and Technology, China. 
-He was selected for the National Distinguished Overseas Youth in 2024. 
+He was selected for the National Distinguished Overseas Youth. 
 He has published papers in journals including IEEE Transactions on Network Science and Engineering, IEEE Internet of Things Journal, and IEEE Transactions on Vehicular Technology, as well as in conferences such as IEEE GLOBECOM and IEEE ICC. 
 
 Research Interests
@@ -43,7 +43,7 @@ Publications
 
 * 2024  
   * <p class="small"> Jun XU, Songnan YU, Xiaoyu Sean LU, et al. Investigating Labeled Cyberbullying Incidents on the Weibo Social Network[C]//2024 International Conference on Networking, Sensing and Control (ICNSC). IEEE, 2024: 1-6. DOI: 10.1109/ICNSC62968.2024.10759933. </p>
-  
+
   * <p class="small"> Shuai ZHANG, Tianzhang CAI, Di WU, et al. IoRT Data Collection With LEO Satellite-Assisted and Cache-Enabled UAV: A Deep Reinforcement Learning Approach[J]. IEEE Transactions on Vehicular Technology, 2024, 73(4): 5872-5884. DOI: 10.1109/TVT.2023.3336262. </p>
 
 * 2021

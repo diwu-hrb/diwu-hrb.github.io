@@ -394,6 +394,12 @@
   }
 }
 
+.page__content {
+  p {
+    text-align: justify;
+  }
+}
+
 .page__related-title {
   margin-bottom: 10px;
   font-size: $type-size-6;

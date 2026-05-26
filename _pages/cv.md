@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, New Jersey Institute of Technology, 2020
+* Ph.D. in Electrical Engineering, New Jersey Institute of Technology, 2020
 * M.S. in Communication Engineering, Harbin Institute of Technology, 2015
 * B.S. in Communication Engineering, Harbin Institute of Technology, 2013
 

@@ -2,6 +2,7 @@
 permalink: /
 title: "Brief Introduction about me"
 author_profile: true
+published: false
 redirect_from: 
   - /about/
   - /about.html

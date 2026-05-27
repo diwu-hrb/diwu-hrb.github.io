@@ -52,4 +52,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Supervising
+======
+  <ul>{% for post in site.supervising reversed %}
+    {% include archive-single-supervising-cv.html  %}
+  {% endfor %}</ul>
 

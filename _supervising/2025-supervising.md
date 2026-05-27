@@ -1,6 +1,6 @@
 ---
 title: "Supervising experience 2"
-collection: Supervising
+collection: supervising
 type: "Workshop"
 permalink: /supervising/2015-supervising
 venue: "NJUST, CSE"

@@ -55,6 +55,6 @@ Teaching
 Supervising
 ======
   <ul>{% for post in site.supervising reversed %}
-    {% include archive-single-supervising-cv.html  %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
